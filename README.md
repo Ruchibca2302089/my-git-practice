@@ -1,1 +1,6 @@
-﻿# My Git Practice Project
+﻿# My Gi# My Git Practice Project
+
+# This update adds details about a new feature.
+
+# t Practice Project
+
